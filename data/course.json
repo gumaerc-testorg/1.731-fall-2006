@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Aquatic Sciences and Water Quality Control"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Hydrodynamics and Coastal Engineering"
+    ]
+  ],
+  "legacy_uid": "55e940e0-ea3b-76a6-f687-2524b5b03c7b",
+  "instructors": {
+    "content": [
+      "da801f24-c50f-07cb-d05d-77708696f98f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7ddf9607-29a6-748d-9d03-7592aecf12c6",
+    "website": "1-731-water-resource-systems-fall-2006"
+  },
+  "course_title": "Water Resource Systems",
+  "course_description": "This subject is concerned with quantitative methods for analyzing large-scale water resource problems. Topics covered include the design and management of facilities for river basin development, flood control, water supply, groundwater remediation, and other activities related to water resources. Simulation models and optimization methods are often used to support analyses of water resource problems. In this subject we will be constructing simulation models with the MATLAB\u00ae programming language and solving numerical optimization problems with the GAMS optimization package.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.731",
+  "course_image_thumbnail": {
+    "content": "6bf551d3-5703-8d10-1c00-9be30b713285",
+    "website": "1-731-water-resource-systems-fall-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "a5c8d75b-2af1-4999-9858-fd8be5fc0032",
+  "title": "Course Metadata"
+}
