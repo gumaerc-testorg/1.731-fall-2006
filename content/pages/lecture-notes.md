@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section lists lecture notes for course text and supporting files.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 436f803d-aafd-e037-4181-b5d176483fc4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -36,14 +41,14 @@ SUPPORTING FILES
 {{< tdopen >}}
 
 
-Introduction ([PDF]({{< baseurl >}}/resources/lect1))
+Introduction ({{% resource_link a104758a-3020-eae5-ec6b-3f64e7e31aaa "PDF" %}})
 
 Example: Irrigation and Salination
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-irrigation.m ([M]({{< baseurl >}}/resources/irrigation))
+irrigation.m ({{% resource_link 94e57fc7-83ff-8d28-6aaf-6142cf623c8f "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ irrigation.m ([M]({{< baseurl >}}/resources/irrigation))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Linear Algebra Review ([PDF]({{< baseurl >}}/resources/lect2))
+Linear Algebra Review ({{% resource_link 24e13cf6-2e18-16e4-5f08-c643a15bfe5c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -64,7 +69,7 @@ Linear Algebra Review ([PDF]({{< baseurl >}}/resources/lect2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-General Optimization Concepts ([PDF]({{< baseurl >}}/resources/lect3))
+General Optimization Concepts ({{% resource_link 0fe8e2d7-d976-75c7-8744-7437af929025 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -76,7 +81,7 @@ General Optimization Concepts ([PDF]({{< baseurl >}}/resources/lect3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-General Optimization Concepts (cont.) ([PDF]({{< baseurl >}}/resources/lect4))
+General Optimization Concepts (cont.) ({{% resource_link 7a22991f-8d32-b8fe-83ee-77f69638a03d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -88,7 +93,7 @@ General Optimization Concepts (cont.) ([PDF]({{< baseurl >}}/resources/lect4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Optimality Conditions ([PDF]({{< baseurl >}}/resources/lect5_6))
+Optimality Conditions ({{% resource_link 805fed51-82cc-0626-bbea-c6b4586997e7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -118,7 +123,7 @@ Optimality Conditions (cont.)
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Linear Programming Overview ([PDF]({{< baseurl >}}/resources/lect7))
+Linear Programming Overview ({{% resource_link c5b80535-00c7-2572-75d0-93376da49565 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -142,7 +147,7 @@ Duality, Linear Programming Solution Strategies
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Linear Programming Sensitivity Analysis ([PDF]({{< baseurl >}}/resources/lect9))
+Linear Programming Sensitivity Analysis ({{% resource_link 183e2a99-6399-8820-d650-2515840e61d2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -166,7 +171,7 @@ Quadratic Programming
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Differential Constraints ([PDF]({{< baseurl >}}/resources/lect11))
+Differential Constraints ({{% resource_link 96c5a5c6-b3c1-637f-f527-1441060aea19 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -178,7 +183,7 @@ Differential Constraints ([PDF]({{< baseurl >}}/resources/lect11))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Nonlinear Programming Algorithms ([PDF]({{< baseurl >}}/resources/lect12_13))
+Nonlinear Programming Algorithms ({{% resource_link de6f9a5c-1303-9fbb-a129-b981f1c677f5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -208,7 +213,7 @@ Nonlinear Programming Algorithms (cont.)
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Optimization over Time, Discounting ([PDF]({{< baseurl >}}/resources/lect14))
+Optimization over Time, Discounting ({{% resource_link 326d4b8b-39a9-4dff-e970-bd31b083e9c9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -220,7 +225,7 @@ Optimization over Time, Discounting ([PDF]({{< baseurl >}}/resources/lect14))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Multiobjective Optimization, Utility, Risk Aversion ([PDF]({{< baseurl >}}/resources/lect15))
+Multiobjective Optimization, Utility, Risk Aversion ({{% resource_link 6465c860-ed72-deb9-72a7-521c5a4743a7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -232,7 +237,7 @@ Multiobjective Optimization, Utility, Risk Aversion ([PDF]({{< baseurl >}}/resou
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Supply and Demand, Groundwater Management ([PDF]({{< baseurl >}}/resources/lect16))
+Supply and Demand, Groundwater Management ({{% resource_link c3254597-82c5-a68e-cd3e-ff4d13619077 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -250,7 +255,7 @@ Supply and Demand, Groundwater Management ([PDF]({{< baseurl >}}/resources/lect1
 17
 {{< tdclose >}}
 {{< tdopen >}}
-River Basin Planning - Screening ([PDF]({{< baseurl >}}/resources/lect17))
+River Basin Planning - Screening ({{% resource_link 72fc34ca-4b88-69d8-d5e4-5dad56268c9d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -274,7 +279,7 @@ River Basin Planning - Simulation
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Real-time Optimization, Dynamic Programming ([PDF]({{< baseurl >}}/resources/lect19_20))
+Real-time Optimization, Dynamic Programming ({{% resource_link c0b1c469-bdcd-694e-d525-8ed7f8571caa "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -298,12 +303,12 @@ Real-time Optimization, Dynamic Programming (cont.)
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Capacity Expansion ([PDF]({{< baseurl >}}/resources/lect21))
+Capacity Expansion ({{% resource_link e277c0b4-0683-9f61-0cd8-43d3e66aa6f1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Lecture06\_21.m ([M]({{< baseurl >}}/resources/lecture06_21))
+Lecture06\_21.m ({{% resource_link 0ea35d4b-0468-d2a3-38cf-310921c31bfc "M" %}})
 
 
 {{< tdclose >}}
@@ -326,7 +331,7 @@ Common Pool Problems
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Variational and Adjoint Methods, Data Assimilation ([PDF]({{< baseurl >}}/resources/lect23))
+Variational and Adjoint Methods, Data Assimilation ({{% resource_link 175ca176-b3f9-c8e1-39b2-d7912e9f7f45 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
