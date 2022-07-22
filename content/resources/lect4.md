@@ -5,6 +5,7 @@ file: /courses/1-731-water-resource-systems-fall-2006/7a22991f8d32b8fe83ee77f696
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Summary of the lecture covering General Optimization Concepts.
-

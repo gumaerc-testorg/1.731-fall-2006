@@ -5,6 +5,7 @@ file: /courses/1-731-water-resource-systems-fall-2006/8f3c67cdc1a7829b260a8ba490
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 List of suggested topics for the project.
-

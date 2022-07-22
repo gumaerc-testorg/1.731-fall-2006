@@ -5,6 +5,7 @@ file: /courses/1-731-water-resource-systems-fall-2006/94e57fc783ff8d286aaf6142cf
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file is a supporting file for the introductory lecture.
-

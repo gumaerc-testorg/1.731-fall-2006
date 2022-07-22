@@ -5,6 +5,7 @@ file: /courses/1-731-water-resource-systems-fall-2006/e277c0b406839f610cd843d3e6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Summary of the lecture covering Capacity Expansion.
-
