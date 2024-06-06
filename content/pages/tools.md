@@ -17,10 +17,10 @@ video_metadata:
 
 There are many useful GAMS resources available to you both on-line and as hard copy. The following links summarize GAMS documentation to get you started.
 
-- {{% resource_link "45365dc7-229d-47af-bff4-b8c2a0ba46f3" "GAMS support" %}}: This is the official GAMS Web site. It provides downloadable documentation, technical information, and a number of useful links. Of particular interest is the {{% resource_link "18d4685c-d7f8-4f88-a6cb-6cb281064ddd" "sample problem" %}}. You can also download .pdf versions of a detailed users manual ({{% resource_link "f869d052-3704-4597-b057-cef4627e1dea" "PDF - 3.1MB" %}}) and a tutorial ({{% resource_link "a3e7b838-c804-42fe-904d-e8a5f9be0bdb" "PDF" %}}). For more extensive documentation see the {{% resource_link "0335eab5-c3a1-45f0-8449-39823c9867c3" "list" %}} provided in the GAMS Web site.
+- [GAMS support](http://www.gams.com/): This is the official GAMS Web site. It provides downloadable documentation, technical information, and a number of useful links. Of particular interest is the [sample problem](http://www.gams.com/docs/example.htm). You can also download .pdf versions of a detailed users manual ([PDF - 3.1MB](https://www.gams.com/latest/docs/UG_MAIN.html)) and a tutorial ([PDF](http://pdf.usaid.gov/pdf_docs/Pnacj887.pdf)). For more extensive documentation see the [list](http://www.gams.com/docs/document.htm) provided in the GAMS Web site.
 - Obtaining a free demonstration version of GAMS for your PC:
 
-You can obtain a free demonstration (downsized) version of GAMS from the {{% resource_link "a3f969ad-609a-4fc4-98c7-a0d05635cde9" "GAMS download site" %}}. If you go to this site you will be asked to fill out a brief form. After submitting this form you will be sent login information and a password that will enable you to download the demo version. Links to installation notes are provided on the GAMS download site. Additional information about GAMS as well as on-line documentation can be found on the {{% resource_link "45365dc7-229d-47af-bff4-b8c2a0ba46f3" "GAMS home page" %}} or through the GAMS support line support@gams.com.
+You can obtain a free demonstration (downsized) version of GAMS from the [GAMS download site](http://www.gams.com/download/). If you go to this site you will be asked to fill out a brief form. After submitting this form you will be sent login information and a password that will enable you to download the demo version. Links to installation notes are provided on the GAMS download site. Additional information about GAMS as well as on-line documentation can be found on the [GAMS home page](http://www.gams.com/) or through the GAMS support line support@gams.com.
 
 ## MATLAB® Help
 
@@ -64,6 +64,6 @@ Typing **help \[command\]** at the MATLAB® prompt will give you a brief explana
 
 If you **don't** know what command you are confused about, typing **help** at the MATLAB® prompt will give you a list of categories. Then typing **help \[category\]** will produce a list of commands in **\[category\]**. For example, one of the categories is **graphics**. Typing **help graphics** produces a list of the MATLAB® graphics commands.
 
-{{% resource_link "58315300-c036-43e7-9dc7-bc6f59630143" "MathWorks Homepage" %}}: The makers of MATLAB®. Information on acquiring MathWorks products plus links to documentation, etc.
+[MathWorks Homepage](http://www.mathworks.com/): The makers of MATLAB®. Information on acquiring MathWorks products plus links to documentation, etc.
 
-{{% resource_link "f737914a-3454-413d-8902-d1cc7eabc648" "MathWorks Support" %}}: This is a useful site that has technical information, Web version of Helpdesk, and a downloadable user-library of scripts. Everything you ever dreamed of knowing about MATLAB®, plus you can always email MathWorks.
+[MathWorks Support](http://www.mathworks.com/support/): This is a useful site that has technical information, Web version of Helpdesk, and a downloadable user-library of scripts. Everything you ever dreamed of knowing about MATLAB®, plus you can always email MathWorks.

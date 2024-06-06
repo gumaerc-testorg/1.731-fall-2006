@@ -20,7 +20,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Description
 -----------
 
-This subject is concerned with quantitative methods for analyzing large-scale water resource problems. Topics covered include the design and management of facilities for river basin development, flood control, water supply, groundwater remediation, and other activities related to water resources. Simulation models and optimization methods are often used to support analyses of water resource problems. In this subject we will be constructing simulation models with the {{% resource_link "f737914a-3454-413d-8902-d1cc7eabc648" "MATLAB® programming language" %}} and solving numerical optimization problems with the {{% resource_link "45365dc7-229d-47af-bff4-b8c2a0ba46f3" "GAMS optimization package" %}}. It is desirable for students taking this subject to have some background in hydrology, linear algebra and programming, although these are not strict prerequisites.
+This subject is concerned with quantitative methods for analyzing large-scale water resource problems. Topics covered include the design and management of facilities for river basin development, flood control, water supply, groundwater remediation, and other activities related to water resources. Simulation models and optimization methods are often used to support analyses of water resource problems. In this subject we will be constructing simulation models with the [MATLAB® programming language](http://www.mathworks.com/support/) and solving numerical optimization problems with the [GAMS optimization package](http://www.gams.com/). It is desirable for students taking this subject to have some background in hydrology, linear algebra and programming, although these are not strict prerequisites.
 
 Grading
 -------

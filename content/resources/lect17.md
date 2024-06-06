@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of the lecture covering River Basin Planning ? Screening Models.
 file: /courses/1-731-water-resource-systems-fall-2006/72fc34ca4b8869d8d5e45dad56268c9d_lect17.pdf
+file_size: 64289
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
