@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment.
 file: /courses/1-731-water-resource-systems-fall-2006/0fd6c59b9025c68afb1ef8593e56eb90_assn4.pdf
+file_size: 36420
 file_type: application/pdf
 learning_resource_types:
 - Assignments
