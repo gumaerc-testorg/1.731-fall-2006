@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file is a supporting file for the introductory lecture.
-file: /courses/1-731-water-resource-systems-fall-2006/94e57fc783ff8d286aaf6142cf623c8f_irrigation.m
+file: /ol-ocw-studio-app/courses/1-731-water-resource-systems-fall-2006/94e57fc783ff8d286aaf6142cf623c8f_irrigation.m
 file_size: 1010
 file_type: text/plain
 learning_resource_types:
