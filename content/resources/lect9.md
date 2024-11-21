@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of the lecture covering Linear Programming Sensitivity Analysis.
-file: /courses/1-731-water-resource-systems-fall-2006/183e2a9963998820d6502515840e61d2_lect9.pdf
+file: /ol-ocw-studio-app/courses/1-731-water-resource-systems-fall-2006/183e2a9963998820d6502515840e61d2_lect9.pdf
 file_size: 74049
 file_type: application/pdf
 learning_resource_types:
