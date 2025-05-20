@@ -2,7 +2,7 @@
 content_type: resource
 description: Summary of the lecture covering Differential Constraints and Response
   Matrices.
-file: /ol-ocw-studio-app/courses/1-731-water-resource-systems-fall-2006/96c5a5c6b3c1637ff5271441060aea19_lect11.pdf
+file: /courses/1-731-water-resource-systems-fall-2006/96c5a5c6b3c1637ff5271441060aea19_lect11.pdf
 file_size: 82248
 file_type: application/pdf
 learning_resource_types:
