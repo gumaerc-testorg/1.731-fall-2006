@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of the lecture covering Supply and demand, Groundwater Management.
-file: /ol-ocw-studio-app/courses/1-731-water-resource-systems-fall-2006/c325459782c5a68ecd3eff4d13619077_lect16.pdf
+file: /courses/1-731-water-resource-systems-fall-2006/c325459782c5a68ecd3eff4d13619077_lect16.pdf
 file_size: 75741
 file_type: application/pdf
 learning_resource_types:

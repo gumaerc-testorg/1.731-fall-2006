@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of the lecture covering Optimality Conditions.
-file: /ol-ocw-studio-app/courses/1-731-water-resource-systems-fall-2006/805fed5182cc0626bbeac6b4586997e7_lect5_6.pdf
+file: /courses/1-731-water-resource-systems-fall-2006/805fed5182cc0626bbeac6b4586997e7_lect5_6.pdf
 file_size: 104843
 file_type: application/pdf
 learning_resource_types:
