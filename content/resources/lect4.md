@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of the lecture covering General Optimization Concepts.
-file: /ol-ocw-studio-app/courses/1-731-water-resource-systems-fall-2006/7a22991f8d32b8fe83ee77f69638a03d_lect4.pdf
+file: /courses/1-731-water-resource-systems-fall-2006/7a22991f8d32b8fe83ee77f69638a03d_lect4.pdf
 file_size: 94431
 file_type: application/pdf
 learning_resource_types:

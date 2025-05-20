@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of the lecture covering Capacity Expansion.
-file: /ol-ocw-studio-app/courses/1-731-water-resource-systems-fall-2006/e277c0b406839f610cd843d3e66aa6f1_lect21.pdf
+file: /courses/1-731-water-resource-systems-fall-2006/e277c0b406839f610cd843d3e66aa6f1_lect21.pdf
 file_size: 51977
 file_type: application/pdf
 learning_resource_types:
